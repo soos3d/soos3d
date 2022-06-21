@@ -3,9 +3,11 @@ My name is Davide, and I am a developer advocate at [Chainstack](chainstack.com)
 
 Checkout the [Chainstack blog](https://chainstack.com/blog/) to learn amazing things about web3!
 
-### Let's connect on Twitter!
+### Let's connect on Twitter and LinkedIn!
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/dave_dvde.svg?style=social&label=Follow%20%40dave_dvde)](https://twitter.com/dave_dvde)
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-zambiasi/)
 
 ### Solidity Fundamentals Course
 I have a Solidity Basics course on Skillshare! I did my best to focus on the fundamentals explained in a step by step method, use this [link to get 30 days free](https://skl.sh/3rvxBpe) on the platform for every course you like! 
