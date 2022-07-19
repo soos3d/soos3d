@@ -3,6 +3,8 @@ My name is Davide, and I am a developer advocate at [Chainstack](chainstack.com)
 
 Checkout the [Chainstack blog](https://chainstack.com/blog/) to learn amazing things about web3!
 
+In my repositories you will find many very simple projects that you can use to learn basic Pyhton, Solidity, JavaScript, and web3 skills!
+
 ### Let's connect on Twitter and LinkedIn!
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/dave_dvde.svg?style=social&label=Follow%20%40dave_dvde)](https://twitter.com/dave_dvde)
