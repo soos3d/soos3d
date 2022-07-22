@@ -1,11 +1,11 @@
-# Hi there 👋
+# Welcome to my GitHub 👋
 My name is Davide, and I am a developer advocate at [Chainstack](chainstack.com), an amazing blockchain infrastructure provider. My focus is to help share great content that will help current and future web3 developers.
 
 Checkout the [Chainstack blog](https://chainstack.com/blog/) to learn amazing things about web3!
 
 ## In my repositories you will find many very simple projects that you can use to learn basic Pyhton, Solidity, JavaScript, and web3 skills!
 
-### Let's connect on Twitter and LinkedIn!
+## Let's connect on Twitter and LinkedIn!
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/dave_dvde.svg?style=social&label=Follow%20%40dave_dvde)](https://twitter.com/dave_dvde)
 
@@ -24,7 +24,7 @@ Instead, in this class you will learn the basic concepts of the Solidity coding 
 
 The goal is for you to complete the class with the ability to understand the basic concepts so that everything will make more sense to you when you dive into more complicated subjects.
 
-### Cool widgets
+## Cool widgets
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soos3d&show_icons=true&theme=gruvbox)
 
