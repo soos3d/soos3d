@@ -1,4 +1,4 @@
-# Welcome to my GitHub 👋
+# Hello there 👋
 My name is Davide, and I am a developer advocate at [Chainstack](chainstack.com), an amazing blockchain infrastructure provider. My focus is to help share great content that will help current and future web3 developers.
 
 Checkout the [Chainstack blog](https://chainstack.com/blog/) to learn amazing things about web3!
