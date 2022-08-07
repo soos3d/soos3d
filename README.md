@@ -28,12 +28,12 @@ The goal is for you to complete the class with the ability to understand the bas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soos3d&show_icons=true&theme=gruvbox)
 
-[Add GitHub stats to your profile](https://github.com/anuraghazra/github-readme-stats#themes)
+[Add the GitHub stats widget to your profile](https://github.com/anuraghazra/github-readme-stats#themes)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soos3d&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[Add top languages to your profile](https://github.com/anuraghazra/github-readme-stats#themes)
+[Add the top languages widget to your profile](https://github.com/anuraghazra/github-readme-stats#themes)
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=dave_dvde)](https://github.com/gazf/github-readme-twitter)
 
-[Twitter widget](https://github.com/gazf/github-readme-twitter)
+[Add the Twitter widget to your profile](https://github.com/gazf/github-readme-twitter)
