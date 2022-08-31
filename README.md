@@ -24,6 +24,13 @@ Instead, in this class you will learn the basic concepts of the Solidity coding 
 
 The goal is for you to complete the class with the ability to understand the basic concepts so that everything will make more sense to you when you dive into more complicated subjects.
 
+## 👨‍💻 Skills
+
+![image](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![image](https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+
 ## Cool widgets
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soos3d&show_icons=true&theme=gruvbox)
