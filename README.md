@@ -7,7 +7,7 @@ Checkout the [Chainstack blog](https://chainstack.com/blog/) to learn amazing th
 
 ## Let's connect on Twitter and LinkedIn!
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/dave_dvde.svg?style=social&label=Follow%20%40dave_dvde)](https://twitter.com/dave_dvde)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/web3Dav3.svg?style=social&label=Follow%20%40web3Dav3)](https://twitter.com/web3Dav3)
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-zambiasi/)
 
