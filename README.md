@@ -1,10 +1,14 @@
-# Hello there 👋
+# Davide | Developer Advocate | Passionate Educator | Tech Enthusiast 🚀
 
-My name is Davide, and I am a developer advocate at [Chainstack](chainstack.com), the leading suite of services connecting developers with Web3 infrastructure. My goal is to help share great content that will help current and future web3 developers.
+Hey there! I'm Davide, a Developer Advocate with a strong passion for empowering others through technology. With a deep understanding of Python, Solidity, JavaScript, and Web3 in general, my mission is to create and share content that inspires and equips developers on their journey, regardless of their level of expertise.
 
-Checkout the [Chainstack blog](https://chainstack.com/blog/) to learn amazing things about web3!
+Currently, I'm working at Chainstack as Developer Advocate Lead, the leading provider of services connecting developers with the world of Web3. By demystifying complex concepts and providing hands-on learning opportunities, I aim to foster a thriving community of developers eager to explore the possibilities of decentralized technology.
 
-## In my repositories you will find many very simple projects that you can use to learn basic Pyhton, Solidity, JavaScript, and web3 skills!
+When I'm not advocating for developer growth, I love tinkering with simple projects in my repositories, where you'll find an array of resources designed to help beginners sharpen their skills across various programming languages and technologies.
+
+> 📚 For insights, tips, and advanced content on Web3 development, check out the Chainstack developer portal: [Web3[De]Coded](https://docs.chainstack.com/docs/web3-decoded-introduction)
+
+Let's connect and shape the future of technology together!
 
 ## Find me on Hashnode!
 
