@@ -34,12 +34,11 @@ Instead, in this class you will learn the basic concepts of the Solidity coding 
 The goal is for you to complete the class with the ability to understand the basic concepts so that everything will make more sense to you when you dive into more complicated subjects.
 
 ## 👨‍💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,js,nodejs,express,html,solidity,next,tailwind,mongodb,postman)](https://skillicons.dev)
 
-![image](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![image](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
-![image](https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ## Cool widgets
 
