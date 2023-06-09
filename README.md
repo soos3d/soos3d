@@ -20,6 +20,12 @@ Let's connect and shape the future of technology together!
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-zambiasi/)
 
+## Learn how to develop AI based applications with LangChain
+
+Here you can find a series I'm making about developing AI based applications using LangChain. Find it on Hashnode!
+
+> [The ultimate LangChain series](https://soosweb3.hashnode.dev/series/langchain)
+
 ## Solidity Fundamentals Course
 I have a Solidity Basics course on Skillshare! I did my best to focus on the fundamentals explained in a step by step method, use this [link to get 30 days free](https://skl.sh/3rvxBpe) on the platform for every course you like! 
 
