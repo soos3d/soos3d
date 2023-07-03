@@ -10,6 +10,10 @@ When I'm not advocating for developer growth, I love tinkering with simple proje
 
 Let's connect and shape the future of technology together!
 
+## Daily.dev
+<a href="https://app.daily.dev/Soos3d"><img src="https://api.daily.dev/devcards/011e6a554cf24bf994b81e5929123dff.png?r=z38" width="200" alt="David's Dev Card"/></a>
+
+
 ## Find me on Hashnode!
 
 [![image](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://soosweb3.hashnode.dev/)
