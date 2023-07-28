@@ -1,6 +1,6 @@
 # Davide | Developer Advocate | Passionate Educator | Tech Enthusiast 🚀
 
-Hey there! I'm Davide, a Developer Advocate with a strong passion for empowering others through technology. With a deep understanding of Python, Solidity, JavaScript, and Web3 in general, my mission is to create and share content that inspires and equips developers on their journey, regardless of their level of expertise.
+Hey there! I'm Davide, a Developer Advocate passionate about empowering others through technology. With a deep understanding of Python, Solidity, JavaScript, and Web3 in general, my mission is to create and share content that inspires and equips developers on their journey, regardless of their level of expertise.
 
 Currently, I'm working at Chainstack as Developer Advocate Lead, the leading provider of services connecting developers with the world of Web3. By demystifying complex concepts and providing hands-on learning opportunities, I aim to foster a thriving community of developers eager to explore the possibilities of decentralized technology.
 
@@ -28,7 +28,7 @@ Let's connect and shape the future of technology together!
 
 Here you can find a series I'm making about developing AI-based applications using LangChain. Find it on Hashnode!
 
-[![image](https://github.com/soos3d/soos3d/assets/99700157/445df39c-b094-4dab-83cc-58c2f8f72f3c)](https://blog.davideai.dev/series/langchain)
+[![image](https://github-production-user-asset-6210df.s3.amazonaws.com/99700157/256859925-445df39c-b094-4dab-83cc-58c2f8f72f3c.png)](https://blog.davideai.dev/series/langchain/)
 
 > [The ultimate LangChain series](https://blog.davideai.dev/series/langchain)
 
