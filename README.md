@@ -1,4 +1,4 @@
-# Davide | Developer Advocate | Pilot ✈️ 🚁 | Tech Enthusiast 🚀
+# Davide | Developer Relations | Pilot ✈️ 🚁 | Tech Enthusiast 🚀
 
 Hey there! I'm Davide, a Developer Advocate passionate about empowering others through technology. With a deep understanding of Python, Solidity, JavaScript, and Web3 in general, my mission is to create and share content that inspires and equips developers on their journey, regardless of their level of expertise.
 
