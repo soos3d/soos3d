@@ -2,9 +2,9 @@
 
 Hey there! I'm Davide, a Developer Advocate passionate about empowering others through technology. With a deep understanding of Python, Solidity, JavaScript, and Web3 in general, my mission is to create and share content that inspires and equips developers on their journey, regardless of their level of expertise.
 
-Currently, I'm working at Chainstack as Developer Advocate Lead, the leading provider of services connecting developers with the world of Web3. By demystifying complex concepts and providing hands-on learning opportunities, I aim to foster a thriving community of developers eager to explore the possibilities of decentralized technology.
+I'm working at Particle Network as Developer Relations accelerating Chain Abstraction.
 
-When I'm not advocating for developer growth, I love tinkering with simple projects in my repositories, where you'll find an array of resources designed to help beginners sharpen their skills across various programming languages and technologies.
+When I'm not advocating for developer growth, I love tinkering with simple projects in my repositories, where you'll find various resources designed to help beginners sharpen their skills across various programming languages and technologies.
 
 > 📚 For insights, tips, and advanced content on Web3 development, check out the Chainstack developer portal: [Web3[De]Coded](https://docs.chainstack.com/docs/web3-decoded-introduction)
 
