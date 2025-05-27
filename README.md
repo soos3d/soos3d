@@ -1,4 +1,4 @@
-# Davide | Developer Relations | Pilot ✈️ 🚁 | Tech Enthusiast 🚀
+# Davide | Developer Relations | Pilot ✈️ 🚁
 
 Hello, I'm Davide—a Developer Advocate focused on Python, Solidity, JavaScript, and Web3. I work at Particle Network in Developer Relations, helping to streamline and simplify chain abstraction for developers. My repositories feature small projects and resources designed to help newcomers master fundamental concepts in a clear, step-by-step manner. 
 
