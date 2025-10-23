@@ -1,4 +1,4 @@
-# Davide Zambiasi | Developer Relations | Pilot ✈️🚁
+# David | Developer Relations | Pilot ✈️🚁
 
 I’m **David**, a developer relations engineer and independent builder focused on **decentralized systems**, **AI-driven tooling**, and **local-first automation**.
 
