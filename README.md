@@ -12,6 +12,8 @@ I work as **customer zero**: first user of every new SDK feature — breaking it
 
 | Project | What it is |
 | --- | --- |
+| [Postflight](https://github.com/soos3d/postflight) | OpenClaw skill that drafts 3 posts a day from your real commits and publishes only when you reply `ship` — no autonomous mode |
+| [SpectraX](https://github.com/SpectraCoreX/SpectraX) | Turns any phone, tablet or IP camera into a secure RTSP/HLS source with on-device object detection |
 | [AlphaNotes GPT](https://www.alphanotes.one/) | Custom GPT that turns long-form content into study notes & PDFs — Python, FastAPI, Docker, Kubernetes |
 | [AI Translator Bot](https://github.com/soos3d/ai-tg-translator-bot) | Real-time, LLM-powered bidirectional translation for multilingual Telegram groups |
 | [AI Voice Demo](https://github.com/soos3d/ai-stuff-huggingface-elevenlabs) | ElevenLabs TTS + Hugging Face inference models in a Next.js multimodal app |
@@ -32,9 +34,14 @@ At Particle Network, I help developers simplify multi-chain development through 
 
 ---
 
-## 🏠 Independent Work — SpectraCoreX
+## 🏠 Independent Work — Local-First Software & Supervised Agents
 
-**SpectraCoreX** is an open-source ecosystem for **local-first automation**, built for privacy, autonomy, and interoperability. It replaces fragmented, cloud-bound "smart home" setups with a modular suite of services that run entirely on local hardware.
+Everything I build on my own time runs on hardware you control and does
+nothing consequential without you. Two projects, one conviction:
+
+**[Postflight](https://github.com/soos3d/postflight)** applies it to agents. It drafts posts about your open source work three times a day, sends each to your Telegram, and publishes only when you reply `ship`. The approval gate is the product — there is no autonomous mode, and a PR adding one gets closed.
+
+**SpectraCoreX** applies it to your home. An open-source ecosystem for **local-first automation**, built for privacy, autonomy, and interoperability. It replaces fragmented, cloud-bound "smart home" setups with a modular suite of services that run entirely on local hardware.
 
 - **Local by default** — all computation happens on your devices
 - **Modular and composable** — small independent services, easily replaced
@@ -68,7 +75,7 @@ I also built a practical, project-based **Solidity course** — 🎓 [start lear
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-zambiasi/)
 [![Hashnode Profile](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://soosweb3.hashnode.dev/)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/web3Dav3.svg?style=social&label=Follow%20%40web3Dav3)](https://twitter.com/web3Dav3)
+[![X](https://img.shields.io/twitter/url/https/twitter.com/dave_zambiasi.svg?style=social&label=Follow%20%40dave_zambiasi)](https://x.com/dave_zambiasi)
 
 ---
 
