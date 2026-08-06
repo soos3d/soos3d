@@ -1,4 +1,4 @@
-# David | Head of Developer Relations | Pilot ✈️🚁
+# David | Senior Developer Relations | Pilot ✈️🚁
 
 I'm **David** — I lead Developer Relations at [**Particle Network**](https://particle.network), making complex infrastructure easy to build on. 4+ years of DevRel across **AI** and **blockchain infrastructure**; previously **Developer Advocate Lead** at [Chainstack](https://chainstack.com), where I led a team of 3 advocates.
 
