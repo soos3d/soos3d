@@ -6,7 +6,7 @@ I support partner integrations end-to-end: guides, code examples, workshops, and
 
 I work as **customer zero**: first user of every new SDK feature, breaking it, refining it, and documenting it before launch.
 
-My portfolio ships as developer documentation: [davidezambiasi.dev](https://davidezambiasi.pages.dev/) — quickstart, guides, reference, changelog.
+My portfolio ships as developer documentation: [davidezambiasi.dev](https://dbcc973d.davidezambiasi.pages.dev/) — quickstart, guides, reference, changelog.
 
 ---
 
