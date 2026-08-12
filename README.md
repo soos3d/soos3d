@@ -1,6 +1,6 @@
 # Davide Zambiasi — Senior Developer Relations | Pilot ✈️🚁
 
-I'm **Davide**, Head of Developer Relations at [**Particle Network**](https://particle.network), making complex infrastructure easy to build on. 4+ years of DevRel across AI and blockchain infrastructure; previously Developer Advocate Lead at [Chainstack](https://chainstack.com), where I led a team of developer advocates.
+I'm **Davide**, a Senior DevRel making complex infrastructure easy to build on. 4+ years of DevRel across AI and blockchain infrastructure; previously Developer Advocate Lead at [Chainstack](https://chainstack.com), where I led a team of developer advocates.
 
 I support partner integrations end-to-end: guides, code examples, workshops, and hackathons, most recently Encode Club's [UXmaxx Hackathon](https://www.encodeclub.com/programmes/uxmaxx-hackathon). I write the integration guides, docs, and demos developers start from.
 
